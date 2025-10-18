@@ -1,6 +1,6 @@
 name: ai_response_selector
 description: A Flutter package for converting AI responses to multiple select options with easy integration and comprehensive state management.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/rudSarkar/ai_response_selector
 
 environment:
