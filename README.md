@@ -375,6 +375,14 @@ class _AdvancedExampleState extends State<AdvancedExample> {
 }
 ```
 
+## Demo
+
+### Multiple select
+![Multiple select](assets/multi-select.png)
+
+### Submit
+![Selected items](assets/selected-items.png)
+
 ## Testing
 
 The package includes comprehensive tests:
